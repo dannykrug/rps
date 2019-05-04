@@ -87,12 +87,3 @@ header > h1 {
 .image {
   max-width: 100px;
 }
-
-#action-message {
-  text-align: center;
-  color: white;
-  font-family: Asap, sans-serif;
-  font-weight: bold;
-  font-size: 20px;
-  margin-top: 45px
-}
